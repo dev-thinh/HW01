@@ -1,0 +1,147 @@
+* commit cc089317a8ca92885c754752f0c43597c28e7fdb
+| Author: Thinh <thinh367800@gmail.com>
+| Date:   Mon Jun 8 08:54:27 2026 +0700
+| 
+|     Add: media assets (image, videos, screenshots)
+| 
+|  device_photo.jpg      | Bin 0 -> 1096150 bytes
+|  screenshots/d10_1.png | Bin 0 -> 185858 bytes
+|  screenshots/d10_2.png | Bin 0 -> 131373 bytes
+|  screenshots/d10_3.png | Bin 0 -> 128131 bytes
+|  screenshots/d10_4.png | Bin 0 -> 131787 bytes
+|  screenshots/d10_5.png | Bin 0 -> 125217 bytes
+|  screenshots/d11_1.png | Bin 0 -> 190330 bytes
+|  screenshots/d11_2.png | Bin 0 -> 108183 bytes
+|  screenshots/d11_3.png | Bin 0 -> 100331 bytes
+|  screenshots/d11_4.png | Bin 0 -> 116174 bytes
+|  screenshots/d11_5.png | Bin 0 -> 109697 bytes
+|  screenshots/d12_1.png | Bin 0 -> 180406 bytes
+|  screenshots/d12_2.png | Bin 0 -> 120818 bytes
+|  screenshots/d12_3.png | Bin 0 -> 143556 bytes
+|  screenshots/d12_4.png | Bin 0 -> 120992 bytes
+|  screenshots/d12_5.png | Bin 0 -> 135600 bytes
+|  screenshots/d13_1.png | Bin 0 -> 198607 bytes
+|  screenshots/d13_2.png | Bin 0 -> 144102 bytes
+|  screenshots/d13_3.png | Bin 0 -> 131905 bytes
+|  screenshots/d13_4.png | Bin 0 -> 138801 bytes
+|  screenshots/d13_5.png | Bin 0 -> 127987 bytes
+|  screenshots/d14_1.png | Bin 0 -> 201514 bytes
+|  screenshots/d14_2.png | Bin 0 -> 160057 bytes
+|  screenshots/d14_3.png | Bin 0 -> 144291 bytes
+|  screenshots/d14_4.png | Bin 0 -> 114130 bytes
+|  screenshots/d14_5.png | Bin 0 -> 136222 bytes
+|  screenshots/d15_1.png | Bin 0 -> 199324 bytes
+|  screenshots/d15_2.png | Bin 0 -> 145960 bytes
+|  screenshots/d15_3.png | Bin 0 -> 122773 bytes
+|  screenshots/d15_4.png | Bin 0 -> 121718 bytes
+|  screenshots/d15_5.png | Bin 0 -> 139451 bytes
+|  screenshots/d16_1.png | Bin 0 -> 219346 bytes
+|  screenshots/d16_2.png | Bin 0 -> 152059 bytes
+|  screenshots/d16_3.png | Bin 0 -> 111867 bytes
+|  screenshots/d16_4.png | Bin 0 -> 171536 bytes
+|  screenshots/d17_1.png | Bin 0 -> 202194 bytes
+|  screenshots/d17_2.png | Bin 0 -> 159999 bytes
+|  screenshots/d17_3.png | Bin 0 -> 144850 bytes
+|  screenshots/d17_4.png | Bin 0 -> 141101 bytes
+|  screenshots/d17_5.png | Bin 0 -> 118697 bytes
+|  screenshots/d18_1.png | Bin 0 -> 181560 bytes
+|  screenshots/d18_2.png | Bin 0 -> 121690 bytes
+|  screenshots/d18_3.png | Bin 0 -> 113962 bytes
+|  screenshots/d18_4.png | Bin 0 -> 119055 bytes
+|  screenshots/d18_5.png | Bin 0 -> 137649 bytes
+|  screenshots/d19_1.png | Bin 0 -> 201946 bytes
+|  screenshots/d19_2.png | Bin 0 -> 150707 bytes
+|  screenshots/d19_3.png | Bin 0 -> 108056 bytes
+|  screenshots/d19_4.png | Bin 0 -> 129096 bytes
+|  screenshots/d19_5.png | Bin 0 -> 177359 bytes
+|  screenshots/d1_1.png  | Bin 0 -> 187622 bytes
+|  screenshots/d1_2.png  | Bin 0 -> 163580 bytes
+|  screenshots/d1_3.png  | Bin 0 -> 128384 bytes
+|  screenshots/d1_4.png  | Bin 0 -> 181325 bytes
+|  screenshots/d1_5.png  | Bin 0 -> 178535 bytes
+|  screenshots/d20_1.png | Bin 0 -> 192071 bytes
+|  screenshots/d20_2.png | Bin 0 -> 123390 bytes
+|  screenshots/d20_3.png | Bin 0 -> 108842 bytes
+|  screenshots/d20_4.png | Bin 0 -> 118401 bytes
+|  screenshots/d20_5.png | Bin 0 -> 119413 bytes
+|  screenshots/d2_1.png  | Bin 0 -> 192897 bytes
+|  screenshots/d2_2.png  | Bin 0 -> 198704 bytes
+|  screenshots/d2_3.png  | Bin 0 -> 189281 bytes
+|  screenshots/d2_4.png  | Bin 0 -> 175671 bytes
+|  screenshots/d3_1.png  | Bin 0 -> 202913 bytes
+|  screenshots/d3_2.png  | Bin 0 -> 173499 bytes
+|  screenshots/d3_3.png  | Bin 0 -> 158588 bytes
+|  screenshots/d3_4.png  | Bin 0 -> 179603 bytes
+|  screenshots/d4_1.png  | Bin 0 -> 190606 bytes
+|  screenshots/d4_2.png  | Bin 0 -> 170227 bytes
+|  screenshots/d4_3.png  | Bin 0 -> 171755 bytes
+|  screenshots/d4_4.png  | Bin 0 -> 195497 bytes
+|  screenshots/d5_1.png  | Bin 0 -> 207521 bytes
+|  screenshots/d5_2.png  | Bin 0 -> 180039 bytes
+|  screenshots/d5_3.png  | Bin 0 -> 122188 bytes
+|  screenshots/d5_4.png  | Bin 0 -> 156224 bytes
+|  screenshots/d5_5.png  | Bin 0 -> 190655 bytes
+|  screenshots/d6_1.png  | Bin 0 -> 185584 bytes
+|  screenshots/d6_2.png  | Bin 0 -> 172482 bytes
+|  screenshots/d6_3.png  | Bin 0 -> 175618 bytes
+|  screenshots/d6_4.png  | Bin 0 -> 165844 bytes
+|  screenshots/d6_5.png  | Bin 0 -> 173367 bytes
+|  screenshots/d7_1.png  | Bin 0 -> 207066 bytes
+|  screenshots/d7_2.png  | Bin 0 -> 172376 bytes
+|  screenshots/d7_3.png  | Bin 0 -> 101044 bytes
+|  screenshots/d7_4.png  | Bin 0 -> 160760 bytes
+|  screenshots/d7_5.png  | Bin 0 -> 171089 bytes
+|  screenshots/d8_1.png  | Bin 0 -> 179463 bytes
+|  screenshots/d8_2.png  | Bin 0 -> 134575 bytes
+|  screenshots/d8_3.png  | Bin 0 -> 105411 bytes
+|  screenshots/d8_4.png  | Bin 0 -> 131448 bytes
+|  screenshots/d8_5.png  | Bin 0 -> 176938 bytes
+|  screenshots/d9_1.png  | Bin 0 -> 206956 bytes
+|  screenshots/d9_2.png  | Bin 0 -> 170909 bytes
+|  screenshots/d9_3.png  | Bin 0 -> 162701 bytes
+|  screenshots/d9_4.png  | Bin 0 -> 106942 bytes
+|  screenshots/d9_5.png  | Bin 0 -> 131333 bytes
+|  screenshots/d9_6.png  | Bin 0 -> 124114 bytes
+|  screenshots/job01.png | Bin 0 -> 243118 bytes
+|  screenshots/job02.png | Bin 0 -> 240162 bytes
+|  screenshots/job03.png | Bin 0 -> 229435 bytes
+|  screenshots/job04.png | Bin 0 -> 245251 bytes
+|  screenshots/job05.png | Bin 0 -> 233882 bytes
+|  screenshots/job06.png | Bin 0 -> 245355 bytes
+|  screenshots/job07.png | Bin 0 -> 256724 bytes
+|  screenshots/job08.png | Bin 0 -> 257557 bytes
+|  screenshots/job09.png | Bin 0 -> 255281 bytes
+|  screenshots/job10.png | Bin 0 -> 236492 bytes
+|  screenshots/mm_1.png  | Bin 0 -> 51875 bytes
+|  screenshots/tc_1.png  | Bin 0 -> 65716 bytes
+|  screenshots/tc_2.png  | Bin 0 -> 69569 bytes
+|  videos.txt            |   5 +++++
+|  112 files changed, 5 insertions(+)
+| 
+* commit 1aa5a58e110726d2003255e5365d12078a67f4d7
+| Author: Thinh <thinh367800@gmail.com>
+| Date:   Mon Jun 8 08:54:17 2026 +0700
+| 
+|     Add: git log output
+| 
+|  git_log.txt | 0
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+| 
+* commit 0ea3ab9ad513a0024cf8bdf9c9a5291a8db9a954
+| Author: Thinh <thinh367800@gmail.com>
+| Date:   Mon Jun 8 08:54:09 2026 +0700
+| 
+|     Add: test cases file
+| 
+|  HW01_TestCases_23127484.xlsx | Bin 0 -> 13380 bytes
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+| 
+* commit 40904969d3f9e616e1afe416785f6c95bc34ed34
+  Author: Thinh <thinh367800@gmail.com>
+  Date:   Mon Jun 8 08:53:59 2026 +0700
+  
+      Add: complete report and prompt log
+  
+   prompt_log_appendix_A.md |  134 +++++
+   report.md                | 1237 ++++++++++++++++++++++++++++++++++++++++++++
+   2 files changed, 1371 insertions(+)
